@@ -1,7 +1,7 @@
-package util;
+package utils;
 
 public class Cart{
   
-  // from github
+  // from gitHub
   
 }
